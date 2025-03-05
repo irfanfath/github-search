@@ -91,7 +91,7 @@ const GitHubSearch = () => {
                                         </Card>
                                     ))
                                 ) : (
-                                    <p className="text-gray-500">No repositories found.</p>
+                                    <p className="text-gray-500">No repositories found</p>
                                 )}
                             </div>
                         )}
