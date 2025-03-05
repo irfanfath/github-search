@@ -1,0 +1,27 @@
+[
+    {
+        "id": 101,
+        "name": "repo1",
+        "html_url": "https://github.com/exampleuser1/repo1"
+    },
+    {
+        "id": 102,
+        "name": "repo2",
+        "html_url": "https://github.com/exampleuser1/repo2"
+    },
+    {
+        "id": 103,
+        "name": "repo3",
+        "html_url": "https://github.com/exampleuser1/repo3"
+    },
+    {
+        "id": 104,
+        "name": "repo4",
+        "html_url": "https://github.com/exampleuser1/repo4"
+    },
+    {
+        "id": 105,
+        "name": "repo5",
+        "html_url": "https://github.com/exampleuser1/repo5"
+    }
+]
