@@ -47,7 +47,7 @@ const GitHubSearch = () => {
     };
 
     return (
-        <div className="p-4 max-w-lg mx-auto">
+        <div className="p-4 max-w-lg mx-auto bg-white rounded-md">
             <FormInput
                 type="text"
                 placeholder="Search GitHub users"
